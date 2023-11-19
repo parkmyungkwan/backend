@@ -2,10 +2,14 @@
 
 ## Megaptera - Backend
 
-* [backend](README.md)
-
 * 1주차
 
   * HTTP Client
 
   * HTTP의 이해
+
+  * HTTP Server
+
+  * Java HTTP Server
+
+  * Spring Web MVC
