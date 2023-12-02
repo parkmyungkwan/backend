@@ -13,3 +13,15 @@
   * [Java HTTP Server](week01/week01-4.md)
 
   * [Spring Web MVC](week01/week01-5.md)
+
+* 2주차
+
+  * [REST API](week02/week02-1.md)
+
+  * [URI & MIME type](week02/week02-2.md)
+
+  * [Collection Pattern](week02/week02-3.md)
+
+  * [Collection Pattern 적용](week02/week02-4.md)
+
+  * [Spring Web MVC로 구현](week02/week02-5.md)
