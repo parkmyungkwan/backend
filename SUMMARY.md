@@ -25,3 +25,14 @@
   * [Collection Pattern 적용](week02/week02-4.md)
 
   * [Spring Web MVC로 구현](week02/week02-5.md)
+
+* 3주차
+
+  * [DTO](week03/week03-1.md)
+
+  * [직렬화](week03/week03-2.md)
+
+  * [Jackson ObjectMapper](week03/week03-3.md)
+
+  * [CORS](week03/week03-4.md)
+  
